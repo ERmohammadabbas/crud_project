@@ -1,6 +1,4 @@
-<img  align="right" src="![Mohd Abbas-4_page-0001](https://github.com/ERmohammadabbas/crud_project/assets/157000026/be602300-98cb-48e6-94fd-fc18ab8213d1)
-" alt="coding" width="400">
-
+<img  align="right" src="m.jpg" alt="coding" width="400">
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 <img  align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="coding" width="400">
