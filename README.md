@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="coding" width="400">
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermohammadabbas&label=Profile%20views&color=0e75b6&style=flat" alt="ermohammadabbas" /> </p>
 
