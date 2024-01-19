@@ -1,4 +1,4 @@
-![logo](file:///C:/Users/SCH/Downloads/Mohd%20Abbas-4.pdf)
+![logo](https://github.com/ERmohammadabbas/crud_project/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 <img  align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="coding" width="400">
