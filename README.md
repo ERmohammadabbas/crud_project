@@ -1,4 +1,5 @@
-<img  align="right" src="m.jpg" alt="coding" width="400">
+<img  align="right" src="![Uploading m.jpg…]()
+" alt="" width="1000">
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 <img  align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="coding" width="400">
